@@ -17327,6 +17327,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameController
       objectReference: {fileID: 0}
+    - target: {fileID: 2284906682678996458, guid: d07cd53b90b22f84fa2073d056376c8b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -7
+      objectReference: {fileID: 0}
     - target: {fileID: 7634687830697240658, guid: d07cd53b90b22f84fa2073d056376c8b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
